@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mori-foy">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Designer+%2F+Web+Developer;Creating+beautiful+things." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Designer+%2F+Web+Developer;Creating+beautiful+things." alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ### 🎨 Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" width="180"/>
 </p>
 
 </td><td valign="top" width="50%">
@@ -21,7 +21,7 @@
 ### 💻 Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" width="216"/>
 </p>
 
 </td></tr></table>
