@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Minami%20Morikawa&fontSize=48&fontColor=fff&fontAlignY=42&desc=Design%20%26%20Web%20Development&descSize=15&descAlignY=62&animation=fadeIn)
+# Hi, I'm Minami 👋
+
+デザインとWeb開発をやっています。
 
 ---
 
@@ -34,4 +36,3 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
