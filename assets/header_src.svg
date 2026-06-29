@@ -42,9 +42,9 @@
     letter-spacing="7" fill="url(#accent)">PORTFOLIO</text>
 
   <!-- name -->
-  <text x="600" y="152" text-anchor="middle"
-    font-family="'Bauhaus 93'" font-size="58"
-    letter-spacing="2" fill="url(#name)">Minami Morikawa</text>
+  <text x="600" y="150" text-anchor="middle"
+    font-family="'Segoe UI'" font-size="56"
+    font-weight="700" letter-spacing="2" fill="url(#name)">Minami Morikawa</text>
 
   <!-- accent line -->
   <rect x="540" y="172" width="120" height="2.5" rx="1.25" fill="url(#accent)"/>

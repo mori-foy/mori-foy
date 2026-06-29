@@ -1,4 +1,4 @@
-<img src="assets/header_v5.png" width="100%" alt="Minami Morikawa — Design × Web Development"/>
+<img src="assets/header_v6.png" width="100%" alt="Minami Morikawa — Design × Web Development"/>
 
 デザインとWeb開発をやっています。
 
