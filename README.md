@@ -1,10 +1,4 @@
-<img src="header.svg" width="100%">
-
-<p align="center">
-  <a href="https://github.com/mori-foy">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Designer+%2F+Web+Developer;Creating+beautiful+things." alt="Typing SVG" />
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=7,12,20&height=180&section=header&text=Minami%20Morikawa&fontSize=52&fontColor=fff&fontAlignY=45&desc=Design%20%26%20Web%20Development&descSize=15&descAlignY=65&animation=twinkling)
 
 ---
 
@@ -44,4 +38,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mori-foy&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-foy&layout=compact&theme=calm&hide_border=true" height="150"/>
 </p>
-
