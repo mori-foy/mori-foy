@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Minami%20Morikawa&fontSize=48&fontColor=fff&fontAlignY=38&desc=Design%20%26%20Web%20Development&descSize=16&descAlignY=58&animation=fadeIn)
+<img src="header.jpg" width="100%" height="120" style="object-fit:cover;">
 
 <p align="center">
   <a href="https://github.com/mori-foy">
@@ -45,4 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-foy&layout=compact&theme=calm&hide_border=true" height="150"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+<img src="header.jpg" width="100%" height="60" style="object-fit:cover;">
