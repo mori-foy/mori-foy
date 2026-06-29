@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9ECD,50:C084FC,100:67E8F9&height=180&section=header&text=Minami%20Morikawa&fontSize=48&fontColor=fff&fontAlignY=42&desc=Design%20%26%20Web%20Development&descSize=15&descAlignY=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Minami%20Morikawa&fontSize=48&fontColor=fff&fontAlignY=42&desc=Design%20%26%20Web%20Development&descSize=15&descAlignY=62&animation=fadeIn)
 
 ---
 
@@ -34,9 +34,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mori-foy&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-foy&layout=compact&theme=calm&hide_border=true" height="150"/>
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9ECD,50:C084FC,100:67E8F9&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
