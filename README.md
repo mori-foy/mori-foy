@@ -1,4 +1,4 @@
-# Hi, I'm Minami 👋
+<img src="assets/header.svg" width="100%" alt="Minami Morikawa — Design × Web Development"/>
 
 デザインとWeb開発をやっています。
 
@@ -36,3 +36,4 @@
 
 ---
 
+<img src="assets/footer.svg" width="100%" alt=""/>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F1117"/>
+      <stop offset="0.55" stop-color="#161A23"/>
+      <stop offset="1" stop-color="#0F1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7C9CFF"/>
+      <stop offset="0.5" stop-color="#C9A8FF"/>
+      <stop offset="1" stop-color="#7CE0D3"/>
+    </linearGradient>
+    <linearGradient id="name" x1="380" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D7DEEE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- subtle grid dots -->
+  <g fill="#2A3142" opacity="0.6">
+    <circle cx="80" cy="60" r="1.5"/>
+    <circle cx="140" cy="60" r="1.5"/>
+    <circle cx="200" cy="60" r="1.5"/>
+    <circle cx="80" cy="120" r="1.5"/>
+    <circle cx="140" cy="120" r="1.5"/>
+    <circle cx="1120" cy="200" r="1.5"/>
+    <circle cx="1060" cy="200" r="1.5"/>
+    <circle cx="1120" cy="140" r="1.5"/>
+  </g>
+
+  <!-- decorative gems -->
+  <g opacity="0.5" stroke="url(#accent)" stroke-width="1.4" fill="none">
+    <polygon points="1040,70 1066,90 1056,124 1024,124 1014,90"/>
+    <polygon points="150,180 170,165 190,180 182,205 158,205"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="600" y="92" text-anchor="middle"
+    font-family="'SF Mono','Roboto Mono',monospace" font-size="13"
+    letter-spacing="7" fill="url(#accent)">PORTFOLIO</text>
+
+  <!-- name -->
+  <text x="600" y="150" text-anchor="middle"
+    font-family="'Helvetica Neue',Arial,sans-serif" font-size="56"
+    font-weight="700" letter-spacing="2" fill="url(#name)">Minami Morikawa</text>
+
+  <!-- accent line -->
+  <rect x="540" y="172" width="120" height="2.5" rx="1.25" fill="url(#accent)"/>
+
+  <!-- subtitle -->
+  <text x="600" y="206" text-anchor="middle"
+    font-family="'Helvetica Neue',Arial,sans-serif" font-size="15"
+    letter-spacing="6" fill="#8B93A7">DESIGN &#160;&#215;&#160; WEB DEVELOPMENT</text>
+</svg>
