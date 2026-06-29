@@ -1,4 +1,4 @@
-<img src="header.jpg" width="100%" height="120" style="object-fit:cover;">
+<img src="header.svg" width="100%">
 
 <p align="center">
   <a href="https://github.com/mori-foy">
@@ -45,4 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori-foy&layout=compact&theme=calm&hide_border=true" height="150"/>
 </p>
 
-<img src="header.jpg" width="100%" height="60" style="object-fit:cover;">
