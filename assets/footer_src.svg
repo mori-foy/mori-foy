@@ -1,17 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
-  <rect width="1200" height="120" fill="#1a1c2c"/>
-  <rect width="1200" height="120" fill="none" stroke="#3b3f5c" stroke-width="12"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F4F6FB"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="faccent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6E8BFF"/>
+      <stop offset="0.5" stop-color="#B98FF0"/>
+      <stop offset="1" stop-color="#52C9BC"/>
+    </linearGradient>
+  </defs>
 
-  <!-- pixel stars -->
-  <g fill="#ffcd75">
-    <rect x="360" y="52" width="8" height="8"/><rect x="352" y="60" width="24" height="8"/><rect x="360" y="68" width="8" height="8"/>
-    <rect x="828" y="52" width="8" height="8"/><rect x="820" y="60" width="24" height="8"/><rect x="828" y="68" width="8" height="8"/>
-  </g>
+  <rect width="1200" height="120" fill="url(#fbg)"/>
 
+  <!-- top accent line -->
+  <rect x="0" y="0" width="1200" height="2.5" fill="url(#faccent)"/>
+
+  <!-- center mark -->
   <text x="600" y="56" text-anchor="middle"
-    font-family="'Courier New',monospace" font-size="30" font-weight="900"
-    letter-spacing="6" fill="#f4f4f4">THANKS FOR PLAYING</text>
-  <text x="600" y="90" text-anchor="middle"
-    font-family="'Courier New',monospace" font-size="16" font-weight="700"
-    letter-spacing="6" fill="#41a6f6">- PRESS START -</text>
+    font-family="'Helvetica Neue',Arial,sans-serif" font-size="20"
+    font-weight="600" letter-spacing="8" fill="#1A1F2E">M<tspan fill="#52C9BC">.</tspan>M</text>
+
+  <text x="600" y="84" text-anchor="middle"
+    font-family="'SF Mono','Roboto Mono',monospace" font-size="11"
+    letter-spacing="4" fill="#9AA2B4">THANKS FOR VISITING</text>
 </svg>
