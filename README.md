@@ -4,11 +4,20 @@
 
 ---
 
-**🎨 Design**　
-<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" height="36"/>
+<table align="center"><tr>
+<td align="center" width="50%">
 
-**💻 Development**　
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" height="36"/>
+**🎨 Design**<br>
+<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" height="40"/>
+
+</td>
+<td align="center" width="50%">
+
+**💻 Development**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" height="40"/>
+
+</td>
+</tr></table>
 
 ---
 
