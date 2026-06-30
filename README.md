@@ -4,20 +4,36 @@
 
 ---
 
+<br>
+
 <table align="center"><tr>
 <td align="center" width="50%">
+<br>
 
-**🎨 Design**<br>
-<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" height="40"/>
+**🎨 Design**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=light" height="48"/>
+
+<br><br>
 
 </td>
 <td align="center" width="50%">
+<br>
 
-**💻 Development**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" height="40"/>
+**💻 Development**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nextjs&theme=light" height="48"/>
+
+<br><br>
 
 </td>
 </tr></table>
+
+<br>
 
 ---
 
