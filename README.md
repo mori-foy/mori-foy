@@ -31,7 +31,7 @@
 
 | プロジェクト | 説明 |
 |---|---|
-| [Hack-1](https://github.com/mori-foy/Hack-1) | Hack-1グランプリ 2026 出場作品 |
+| [うちの子製作所](https://github.com/mori-foy/Hack-1) | Hack-1グランプリ 2026 出場作品。オーディエンス賞・セガサミーイノベーション賞 受賞 |
 | [YOUR AI](https://github.com/mori-foy/yourai) | 自分の選択をAIとの対話で納得するサービス |
 | [オンギャーマネジメント](https://github.com/mori-foy/ongya) | 6秒ルールで"オンギャー"を止めろ！迷路タイムアタックゲーム |
 | [川柳なう。](https://github.com/mori-foy/senryunow) | 即興で五七五を詠み、友達と共有するSNS |
