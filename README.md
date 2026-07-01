@@ -42,5 +42,3 @@
     ---
 
     <img src="assets/footer_v4.png" width="100%" alt=""/>
-    
-</tr>
